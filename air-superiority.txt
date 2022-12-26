@@ -1,0 +1,9 @@
+"air-superiority"
+{
+	"base"		"base"
+	"title"		"Air Superiority BETA"
+	"maps"		"^airs_"
+	"category"	"pvp"
+	"menusystem"	"1"
+	"workshopid"	"0"
+}
